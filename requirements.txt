@@ -1,0 +1,20 @@
+General Requirments (backlog?)
+    - Ability to find similar cultures
+        - Basic distinguish: Find Difference between every dimention for every nation 
+          the smaller the difference is the closer the culture is on the certain dimention.
+          The difference score on all dimentions is the scale of how far is country.
+            -  For every country find all countries close to it  (Minimal requirement: 10 countries)
+        - Difference by importance of dimention for user
+            - User can put in which dimentions is important for him to measure close nation cultures,
+            The importance will be multiplied by the score distance per dimention 
+            and the score will be calculated as before. 
+            (For instance the user will set induldgenes to 0 therefore will erase this dimention etc.)
+        - Ability to look at the world with pre-conceived cultures, 
+            such as checking how similar is the Meditarinian, Arab, SouthEast, North America, Scandanavian, German, Different African
+        - Understand the Hoftede Data
+            - Is the median actually the middle, or maybe the avg? 
+            - Cluster the numbers
+        UI
+            - Give a map of the world and colour it by similar cultures
+
+First week:
